@@ -1,0 +1,26 @@
+--- 
+title: "Aprende R"
+author: "Andrea Fernández Conde"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [latex/book.bib]
+biblio-style: biblatex-chicago
+link-citations: yes
+github-repo: sociedat/aprendeR
+description: "Este es un esfuerzo en español para quienes quieren empezar a utilizar R para hacer análisis de datos reproducibles."
+---
+
+```{r, include=FALSE}
+options(
+  htmltools.dir.version = FALSE, formatR.indent = 2, width = 55, digits = 2
+)
+```
+
+# Prefacio {-}
+
+## ¿Por qué leer este libro?
+
+## Estructura del libro
+
