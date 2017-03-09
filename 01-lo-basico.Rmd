@@ -90,7 +90,7 @@ getwd()
 
 1. Abre tu consola de `R` y escribe *setwd("/*. 
 2. Utiliza la tecla `tab` 
-\includegraphics[scale=0.5]{../img/tab_key.jpg}
+\includegraphics[scale=0.5]{img/tab_key.jpg}
 para autocompletar las posibles rutas desde donde quiera que estes.
 3. Escoge alguna (nuevamente usando la tecla tab para moverte entre las opciones). Si esto no funciona, teclea textualmente alguna de las rutas que ves.
 4. Cierra la doble comilla y el paréntesis.

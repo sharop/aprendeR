@@ -1,3 +1,7 @@
+# bookdown
+_book/
+aprendeR.run.xml
+
 # Packrat
 packrat/lib*/
 

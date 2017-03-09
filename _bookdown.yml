@@ -1,6 +1,6 @@
-book_filename: "bookdown"
+book_filename: "aprendeR"
 chapter_name: "Capítulo "
-clean: [bookdown.bbl]
+clean: [bookdown.run.xml, bookdown.bbl]
 language:
   label:
     fig: "Figura : "

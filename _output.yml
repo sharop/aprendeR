@@ -14,12 +14,11 @@ bookdown::gitbook:
       facebook: no
 bookdown::pdf_book:
   includes:
-    in_header: latex/preambulo.tex
+    in_header: latex/preambulo.sty
   keep_tex: yes
   latex_engine: pdflatex
-  citation_package: biblatex
   template: null
-  pandoc_args: --chapters
+  pandoc_args: --top-level-division=chapter
   toc_depth: 3
   toc_unnumbered: no
   toc_appendix: yes
